@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> `plaincron` has moved to [`@sanely/cron`](https://www.npmjs.com/package/@sanely/cron). Its code now lives in [adelrodriguez/sanely](https://github.com/adelrodriguez/sanely/tree/main/packages/cron). This repository is archived, and `plaincron` is deprecated on npm.
+
 <div align="center">
   <h1 align="center">🗓️ <code>plaincron</code></h1>
 
